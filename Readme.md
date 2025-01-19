@@ -1,4 +1,22 @@
+**Dashboard Acompanhamento de Vendas**
+
+🚀 Acompanhamento de Vendas - Empowerdata 📊
+
+Mais um dashboard feito como parte do meu curso de Power BI EmpowerData. Ele foi desenvolvido para acompanhar o desempenho de um negócio com 3 filiais e inclui:
+
+📍 Desempenho de cada filial
+🏅 Ranking de vendedores
+💰 Faturamento e quantidade de pedidos
+📊 Ticket médio e análise por produto/vendedor
+
+
+Clique aqui e visualize: https://github.com/user-attachments/assets/7c0739cf-315d-4892-8368-f27cbff9337f
+
 **DashBoard RH**
+
+
+
+
 
 Este é mais um dos dashboards que fiz no curso da Empowerdata, trata-se de uma análise da área de Recursos Humanos. 💼✨
 
