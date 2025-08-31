@@ -20,7 +20,7 @@ Planilhas XLS 📄
 </p>
 
  
-📥 [Clique aqui para baixar o dashboard de Acompanhamento de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Acompanhamento%20de%20Vendas.pbix)
+📥 [Clique aqui para baixar o dashboard de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Acompanhamento%20de%20Vendas.pbix)
 
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/a3e422a3-adf1-40f0-8a95-e3cf5e024f61" />
 
@@ -51,6 +51,8 @@ Planilhas XLS 📄
 </p>
 
 📥 [Clique aqui para baixar o dashboard de Acompanhamento de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Vendas.pbix)
+
+<img width="1225" height="696" alt="image" src="https://github.com/user-attachments/assets/0b5283a5-e5c0-418d-b0f5-8063d70f67e3" />
 
 
 
