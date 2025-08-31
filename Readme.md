@@ -77,11 +77,42 @@ Uma tabela Fato e duas Dimensão
 Planilhas XLS 📄
 </p>
 
+📥 [Clique aqui para baixar o dashboard de Estudo de Caso - DashboardFinal (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/DashboardFinal.pbix)
+
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/vi/ikGeNb9wR1I/maxresdefault.jpg)](https://youtu.be/ikGeNb9wR1I)
+
+<h3>📈 Dashboard Final - Vendas</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Colunas<br>
+- Tabela<br>
+- Barra<br>
+- Linha<br>
+- Segmentação de dados<br>
+- Área <br>
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+COUNT, COUNTROWS, DISTINCTCOUNT, AVERAGE, CALCULATE, FILTER, ALLEXCEPT, SAMEPERIODLASTYEAR - algumas funções foram usadas com variáveis.
+</p>
+
+<p><b>🔗 Relacionamentos:</b><br>
+Uma tabela Fato e duas Dimensão
+</p>
+
+
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
 📥 [Clique aqui para baixar o dashboard de Estudo de Caso - Analise de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Estudo%20de%20Caso%20-%20Analise%20de%20de%20Vendas.pbix)
 
 ## 🎥 Demonstração do Dashboard - Assista no Youtube
 
 [![Assista no YouTube](https://img.youtube.com/vi/MnE4cgRVGEU/maxresdefault.jpg)](https://youtu.be/MnE4cgRVGEU)
+------
 
 
 <h3>📈 Contabilidade</h3>
