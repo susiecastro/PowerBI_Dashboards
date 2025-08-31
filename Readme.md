@@ -220,6 +220,31 @@ Planilhas XLS 📄
 
 
 
+<h3>📈 Logística</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Cartões<br>
+- Ãrea<br>
+- Linha<br>
+- Coluna<br>
+- Tabela<br>
+- Segmentação de dados
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+CALCULATE, COUNTROWS, UNICHAR, REPT, ROUND, MIN, MAX
+</p>
+
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
+📥 [Clique aqui para baixar o dashboard de Dashboard de logística(.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Mini-Projeto4-Parte2.pbix)
+
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/vi/LSy60c-Rtno/maxresdefault.jpg)](https://youtu.be/LSy60c-Rtno)
+https://youtu.be/LSy60c-Rtno
 
  
 
