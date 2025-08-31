@@ -77,7 +77,7 @@ Uma tabela Fato e duas Dimensão
 Planilhas XLS 📄
 </p>
 
-📥 [Clique aqui para baixar o dashboard de Estudo de Caso - Analise de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Estudo%20de%20Caso%20-%20Analise%20de%20de%20Vendas.pbix)
+📥 [Clique aqui para baixar o dashboard de Estudo de Caso - Analise de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Estudo%20de%20Caso%20-%20Analise%20de%20Vendas.pbix)
 
 ## 🎥 Demonstração do Dashboard - Assista no Youtube
 
