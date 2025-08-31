@@ -126,7 +126,7 @@ Planilhas XLS 📄
 
 ## 🎥 Demonstração do Dashboard - Assista no Youtube
 
-[![Assista no YouTube](https://img.youtube.com/UteTA_VeCtI/maxresdefault.jpg)](https://youtu.be/UteTA_VeCtI)
+[![Assista no YouTube](https://img.youtube.com/vi/UteTA_VeCtI/maxresdefault.jpg)](https://youtu.be/UteTA_VeCtI)
 
 
 
