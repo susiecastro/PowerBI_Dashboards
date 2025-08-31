@@ -98,8 +98,35 @@ Planilhas XLS 📄
 [![Assista no YouTube](https://img.youtube.com/vi/WZSvaN9EqJg/maxresdefault.jpg)](https://youtu.be/WZSvaN9EqJg)
 
 
+<h3>📈 Dashboard de RH</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Cartões<br>
+- Mapa Coroplético<br>
+- Colunas Empilhadas<br>
+- Treemap<br>
+- Colunas<br>
+- Segmentação de dados
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+DISTINCTCOUNT, COUNTROWS
+</p>
+
+<p><b>🔗 Relacionamentos:</b><br>
+Uma tabela Fato e uma Dimensão
+</p>
 
 
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
+📥 [Clique aqui para baixar o dashboard de Dashboard de RH (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Dashboard%20de%20RH.pbix)
+
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/UteTA_VeCtI/maxresdefault.jpg)](https://youtu.be/UteTA_VeCtI)
 
 
 
