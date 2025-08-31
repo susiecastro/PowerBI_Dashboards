@@ -6,7 +6,7 @@
 - Colunas com linhas, Cartões, Rosca, Barras, Treemap, Segmentação de dados
 <b>Funções DAX:</b>
 SUM, SUMX, CALCULATE, MAX, MIN, DISTINCTCOUNT, COUNTROWS, AVERAGE, DIVIDE  e AVERAGEX
-<b> Fonte de Dados</b:
+<b> Fonte de Dados</b>:
 Planilhas XLS
  
 📥 [Clique aqui para baixar o dashboard de Acompanhamento de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Acompanhamento%20de%20Vendas.pbix)
