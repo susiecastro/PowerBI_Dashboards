@@ -26,6 +26,33 @@ Planilhas XLS 📄
 
 <img width="886" height="489" alt="image" src="https://github.com/user-attachments/assets/d12383c8-d924-4bf6-8a55-6b17bd89eccf" />
 
+<h3>📈 Vendas</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Área<br>
+- Colunas<br>
+- Rosca<br>
+- Tabela<br>
+- Barra<br>
+- Segmentação de dados
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+DIVIDE, SUM
+</p>
+
+<p><b>🔗 Relacionamentos:</b><br>
+Uma tabela Fato e duas Dimensão
+</p>
+
+
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
+📥 [Clique aqui para baixar o dashboard de Acompanhamento de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Vendas.pbix)
+
+
 
 
 
