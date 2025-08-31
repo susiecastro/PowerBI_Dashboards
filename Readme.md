@@ -73,6 +73,31 @@ Planilhas XLS 📄
 
 [![Assista no YouTube](https://img.youtube.com/vi/Ja8cdg7jifE/maxresdefault.jpg)](https://youtu.be/Ja8cdg7jifE)
 
+<h3>📈RH</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Barras<br>
+- Rosca<br>
+- Pizza (Setor)<br>
+- Cartões<br>
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+DIVIDE, AVERAGE, CALCULATE, COUNTROWS, 
+</p>
+
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
+ 
+📥 [Clique aqui para baixar o dashboard de rh(.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/RH.pbix)
+
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/vi/Ja8cdg7jifE/maxresdefault.jpg)](https://youtu.be/WZSvaN9EqJg)
+
+
 
 
 
