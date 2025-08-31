@@ -114,7 +114,34 @@ Planilhas XLS 📄
 [![Assista no YouTube](https://img.youtube.com/vi/ikGeNb9wR1I/maxresdefault.jpg)](https://youtu.be/ikGeNb9wR1I)
 
 
-------
+<h3>📈 Financeiro</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Colunas<br>
+- Tabela<br>
+- Barra<br>
+- Principais Influenciadores<br>
+- Área <br>
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+DIVIDE, CALCULATE E SUM
+
+</p>
+
+
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
+📥 [Clique aqui para baixar o dashboard de Financeiro (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Financeiro.pbix)
+
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/vi/eeVZyUtnb9M/maxresdefault.jpg)](https://youtu.be/eeVZyUtnb9M)
+
+
+
 
 
 <h3>📈 Contabilidade</h3>
