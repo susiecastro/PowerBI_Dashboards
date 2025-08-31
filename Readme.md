@@ -54,6 +54,36 @@ Planilhas XLS 📄
 
 <img width="1225" height="696" alt="image" src="https://github.com/user-attachments/assets/0b5283a5-e5c0-418d-b0f5-8063d70f67e3" />
 
+<h3>📈 Estudo de Caso - Analise de Vendas</h3>
+
+<p><b> Visualizações utilizadas:</b><br>
+- Colunas<br>
+- Tabela<br>
+- Barra<br>
+- Linha<br>
+- Segmentação de dados
+</p>
+
+<p><b>🧠 Funções DAX:</b><br>
+DIVIDE, SUM
+</p>
+
+<p><b>🔗 Relacionamentos:</b><br>
+Uma tabela Fato e duas Dimensão
+</p>
+
+
+<p><b>📂 Fonte de Dados:</b><br>
+Planilhas XLS 📄
+</p>
+
+📥 [Clique aqui para baixar o dashboard de Estudo de Caso - Analise de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Estudo%20de%20Caso%20-%20Analise%20de%20de%20Vendas.pbix)
+
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/vi/MnE4cgRVGEU/maxresdefault.jpg)](https://youtu.be/MnE4cgRVGEU)
+
+
 <h3>📈 Contabilidade</h3>
 
 <p><b> Visualizações utilizadas:</b><br>
