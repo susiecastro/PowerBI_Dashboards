@@ -244,7 +244,7 @@ Planilhas XLS 📄
 ## 🎥 Demonstração do Dashboard - Assista no Youtube
 
 [![Assista no YouTube](https://img.youtube.com/vi/LSy60c-Rtno/maxresdefault.jpg)](https://youtu.be/LSy60c-Rtno)
-https://youtu.be/LSy60c-Rtno
+
 
  
 
