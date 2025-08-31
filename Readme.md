@@ -69,7 +69,10 @@ Planilhas XLS 📄
 📥 [Clique aqui para baixar o dashboard de Contabilidade (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Contabilidade.pbix):
 
 
-[![Assista no YouTube](https://img.youtube.com/vi/Ja8cdg7jifE/0.jpg)](https://youtu.be/Ja8cdg7jifE)
+## 🎥 Demonstração do Dashboard - Assista no Youtube
+
+[![Assista no YouTube](https://img.youtube.com/vi/Ja8cdg7jifE/maxresdefault.jpg)](https://youtu.be/Ja8cdg7jifE)
+
 
 
 
