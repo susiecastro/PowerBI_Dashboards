@@ -77,11 +77,11 @@ Uma tabela Fato e duas Dimensão
 Planilhas XLS 📄
 </p>
 
-📥 [Clique aqui para baixar o dashboard de Estudo de Caso - DashboardFinal (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/DashboardFinal.pbix)
+📥 [Clique aqui para baixar o dashboard de Estudo de Caso - Analise de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Estudo%20de%20Caso%20-%20Analise%20de%20de%20Vendas.pbix)
 
 ## 🎥 Demonstração do Dashboard - Assista no Youtube
 
-[![Assista no YouTube](https://img.youtube.com/vi/ikGeNb9wR1I/maxresdefault.jpg)](https://youtu.be/ikGeNb9wR1I)
+[![Assista no YouTube](https://img.youtube.com/vi/MnE4cgRVGEU/maxresdefault.jpg)](https://youtu.be/MnE4cgRVGEU)
 
 <h3>📈 Dashboard Final - Vendas</h3>
 
@@ -107,11 +107,13 @@ Uma tabela Fato e duas Dimensão
 Planilhas XLS 📄
 </p>
 
-📥 [Clique aqui para baixar o dashboard de Estudo de Caso - Analise de Vendas (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/Estudo%20de%20Caso%20-%20Analise%20de%20de%20Vendas.pbix)
+📥 [Clique aqui para baixar o dashboard de Estudo de Caso - DashboardFinal (.pbix)](https://github.com/susiecastro/PowerBI_Dashboards/raw/main/DashboardFinal.pbix)
 
 ## 🎥 Demonstração do Dashboard - Assista no Youtube
 
-[![Assista no YouTube](https://img.youtube.com/vi/MnE4cgRVGEU/maxresdefault.jpg)](https://youtu.be/MnE4cgRVGEU)
+[![Assista no YouTube](https://img.youtube.com/vi/ikGeNb9wR1I/maxresdefault.jpg)](https://youtu.be/ikGeNb9wR1I)
+
+
 ------
 
 
